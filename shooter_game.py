@@ -1,7 +1,7 @@
 from pygame import *
 from random import randint
 
-
+# this is a new line
 
 font.init()
 font1 = font.Font(None, 80)
